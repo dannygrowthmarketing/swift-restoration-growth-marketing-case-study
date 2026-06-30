@@ -99,8 +99,8 @@ This case study separates **measured data** from **estimates** — a deliberate 
 
 > _Replace this block with your details before publishing._
 
-**[Your Name]** — Growth Marketing & Technical SEO Consultant
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+**Daniel** — Growth Marketing & Technical SEO Consultant
+· [Email](danieldeepak3519@gmail.com)
 
 This case study is based on a live client engagement and demonstrates strategy, technical execution, and a measurement-driven approach to local lead generation.
 
